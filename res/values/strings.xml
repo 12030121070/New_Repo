@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saloni</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_description">SICSR header with logo</string>
+    <string name="username">Enter Username</string>
+    <string name="username_hint">Enter your PRN</string>
+    <string name="password">Enter Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="str1">Text to convert</string>
+    <string name="str2">Converted text displayed</string>
+    <string name="btn1">Uppercase</string>
+    <string name="btn2">Lowercase</string>
+    <string name="title_activity_to_case">ToCase</string>
+
+</resources>
